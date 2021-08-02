@@ -1,2 +1,2 @@
-# kunikardusbase
-base working project
+# kunicardus
+kunicardus working app
